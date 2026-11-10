@@ -1,23 +1,19 @@
-# DBMS Normalization Lab (1NF, 2NF & 3NF)
+# DBMS Normalization Lab
 
-MySQL 8.0+ solutions for 15 database normalization practice tasks. Each task has a separate folder and solution.sql file.
+15 MySQL 8.0 solutions. Every problem is a separate SQL file in the repository root; there are no task folders.
 
-## Tasks
-1. [Hospital Visits](Task-01-hospital-visits/solution.sql)
-2. [University Enrollment](Task-02-university-enrollment/solution.sql)
-3. [E-Commerce Orders](Task-03-e-commerce-orders/solution.sql)
-4. [Library Loans](Task-04-library-loans/solution.sql)
-5. [Airline Tickets](Task-05-airline-tickets/solution.sql)
-6. [Hotel Reservations](Task-06-hotel-reservations/solution.sql)
-7. [Project Staffing](Task-07-project-staffing/solution.sql)
-8. [Food Delivery](Task-08-food-delivery/solution.sql)
-9. [Bank Loans](Task-09-bank-loans/solution.sql)
-10. [Pharmacy Prescriptions](Task-10-pharmacy-prescriptions/solution.sql)
-11. [Ride-Hailing Trips](Task-11-ride-hailing-trips/solution.sql)
-12. [Car Rental](Task-12-car-rental/solution.sql)
-13. [Purchase Orders](Task-13-purchase-orders/solution.sql)
-14. [Class Timetable](Task-14-class-timetable/solution.sql)
-15. [Streaming Invoices](Task-15-streaming-invoices/solution.sql)
-
-## Run
-Open the desired SQL file in MySQL Workbench or phpMyAdmin and execute it. Scripts create final 3NF tables and insert sample data. Validate assumptions against your original lab sheet before submission.
+1. [Task-01-hospital-visits.sql](Task-01-hospital-visits.sql)
+2. [Task-02-university-enrollment.sql](Task-02-university-enrollment.sql)
+3. [Task-03-e-commerce-orders.sql](Task-03-e-commerce-orders.sql)
+4. [Task-04-library-loans.sql](Task-04-library-loans.sql)
+5. [Task-05-airline-tickets.sql](Task-05-airline-tickets.sql)
+6. [Task-06-hotel-reservations.sql](Task-06-hotel-reservations.sql)
+7. [Task-07-project-staffing.sql](Task-07-project-staffing.sql)
+8. [Task-08-food-delivery.sql](Task-08-food-delivery.sql)
+9. [Task-09-bank-loans.sql](Task-09-bank-loans.sql)
+10. [Task-10-pharmacy-prescriptions.sql](Task-10-pharmacy-prescriptions.sql)
+11. [Task-11-ride-hailing-trips.sql](Task-11-ride-hailing-trips.sql)
+12. [Task-12-car-rental.sql](Task-12-car-rental.sql)
+13. [Task-13-purchase-orders.sql](Task-13-purchase-orders.sql)
+14. [Task-14-class-timetable.sql](Task-14-class-timetable.sql)
+15. [Task-15-streaming-invoices.sql](Task-15-streaming-invoices.sql)
